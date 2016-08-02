@@ -1,0 +1,1 @@
+These are all my artificial intelligence class assignments
